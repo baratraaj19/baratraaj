@@ -17,6 +17,10 @@
 <h2 align="left">I code with</h2>
 
 ###
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baratraaj19&hide_border=true&layout=compact" align="center" /></div>   
+<br/>   
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=baratraaj19&label=Profile%20views&color=0e75b6&style=flat" alt="baratraaj19" /> </p>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
