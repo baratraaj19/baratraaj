@@ -20,7 +20,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baratraaj19&hide_border=true&layout=compact" align="center" /></div>   
 <br/>   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baratraaj19&label=Profile%20views&color=0e75b6&style=flat" alt="baratraaj19" /> </p>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -41,7 +41,6 @@
   <img width="12" />
   <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png" height="40" alt="supabase logo"  />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
