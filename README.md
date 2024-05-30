@@ -6,11 +6,17 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020 <br>🎯 Goals: Build a SaaS<br>🎲 Fun fact: Freelance video editor</p>
+- ✨ Creating bugs since **2020**
+- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on **Task Management**
+- 🎯 Goals: Build a **SaaS**
+- ⚡ Fun fact: Freelance **Video Editor**
+- 👯 I’m looking to collaborate to **Build A SaaS**
+- 📫 How to reach me: **baratdev19@gmail.com**
 
 ###
 
@@ -49,3 +55,11 @@
 </div>
 
 ###
+
+
+
+
+
+<!-- Optional: Add a footer or any additional content you like -->
+
+
