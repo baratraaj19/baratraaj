@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> 🛠 I code with</h2>
 
 ###
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baratraaj19&hide_border=true&layout=compact" align="center" /></div>   
@@ -56,7 +56,6 @@
 
 ###
 
-## 📫 Connect with me:
 
 
 
