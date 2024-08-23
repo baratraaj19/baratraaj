@@ -12,7 +12,7 @@
 
 - ✨ Creating bugs since **2020**
 - 🌱 I’m currently learning **DevOps**
-- 🔭 I’m currently working on **HRMS Product**
+- 🔭 I’m currently working on **Product Development**
 - 🎯 Goals: Build a **SaaS**
 - ⚡ Fun fact: Freelance **Video Editor**
 - 👯 I’m looking to collaborate to **Build A SaaS**
